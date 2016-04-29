@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require_relative 'grains'
-require 'test_helper'
+require_relative 'test_helper'
 
 class GrainsTest < Minitest::Test
   def test_square_1
